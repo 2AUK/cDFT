@@ -1,4 +1,3 @@
-??? from here until ???END lines may have been inserted/deleted
 ###Classical Density Functional Theory###
 
 Following this paper:
